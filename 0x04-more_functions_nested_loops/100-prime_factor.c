@@ -2,7 +2,7 @@
 #include <math.h>
 
 /**
- * main - Prints the largest prime factor of the number 012052475143
+ * main - Prints the largest prime factor of the number 612052475143
  * Return: Always 0 (Success)
  */
 
@@ -10,7 +10,7 @@ int main(void)
 
 {
 	long x, maxf;
-	long number = 012052475143;
+	long number = 612052475143;
 	double square = sqrt(number);
 
 	for (x = 1; x <= square; x++)
